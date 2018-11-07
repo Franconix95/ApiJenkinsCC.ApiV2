@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiJenkinsCC.ApiV2.API.DataContracts\ApiJenkinsCC.ApiV2.API.DataContracts.csproj" />
+    <ProjectReference Include="..\ApiJenkinsCC.ApiV2.Services\ApiJenkinsCC.ApiV2.Services.csproj" />
+  </ItemGroup>
+
+</Project>

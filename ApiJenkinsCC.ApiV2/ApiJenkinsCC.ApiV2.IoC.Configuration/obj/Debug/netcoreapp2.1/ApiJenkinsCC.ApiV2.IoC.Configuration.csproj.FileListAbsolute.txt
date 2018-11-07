@@ -1,0 +1,16 @@
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.IoC.Configuration.deps.json
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.IoC.Configuration.dll
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.IoC.Configuration.pdb
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.Common.dll
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.DataContracts.dll
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.Services.dll
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.DataContracts.pdb
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.Services.pdb
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.Common.pdb
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.IoC.Configuration.csprojAssemblyReference.cache
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.IoC.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.IoC.Configuration.AssemblyInfoInputs.cache
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.IoC.Configuration.AssemblyInfo.cs
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.IoC.Configuration.csproj.CopyComplete
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.IoC.Configuration.dll
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.IoC.Configuration\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.IoC.Configuration.pdb

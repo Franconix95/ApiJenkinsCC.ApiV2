@@ -1,0 +1,9 @@
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.API.DataContracts\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.DataContracts.deps.json
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.API.DataContracts\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.DataContracts.dll
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.API.DataContracts\bin\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.DataContracts.pdb
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.API.DataContracts\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.DataContracts.csprojAssemblyReference.cache
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.API.DataContracts\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.API.DataContracts\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.DataContracts.AssemblyInfoInputs.cache
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.API.DataContracts\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.DataContracts.AssemblyInfo.cs
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.API.DataContracts\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.DataContracts.dll
+C:\Users\jfranco\Source\Repos\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2\ApiJenkinsCC.ApiV2.API.DataContracts\obj\Debug\netcoreapp2.1\ApiJenkinsCC.ApiV2.API.DataContracts.pdb
