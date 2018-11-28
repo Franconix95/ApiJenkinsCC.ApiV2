@@ -6739,7 +6739,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.1": {
-      "sha512": "f8PKGcxiezL1RVqmnmrazj24Mj4KCTSXqwdotl7Lc+82h8iLV7ItxEIShTJakG7M9iw0ZuCocM0J/IhYesdQrg==",
+      "sha512": "BOK5fckW9v7xWjpEI6bPGwkjw10OPVASZcAa8HoWJo/0Mmg4Azddj92v8noU+YgvD/6zNZ9o/RiRXXKxk5rYwQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.1",
       "files": [
@@ -14518,23 +14518,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jfranco\\.nuget\\packages\\": {},
+    "C:\\Users\\miguel.gomes\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jfranco\\Source\\Repos\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API\\ApiJenkinsCC.ApiV2.API.csproj",
+      "projectUniqueName": "C:\\Users\\miguel.gomes\\Desktop\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API\\ApiJenkinsCC.ApiV2.API.csproj",
       "projectName": "ApiJenkinsCC.ApiV2.API",
-      "projectPath": "C:\\Users\\jfranco\\Source\\Repos\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API\\ApiJenkinsCC.ApiV2.API.csproj",
-      "packagesPath": "C:\\Users\\jfranco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jfranco\\Source\\Repos\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API\\obj\\",
+      "projectPath": "C:\\Users\\miguel.gomes\\Desktop\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API\\ApiJenkinsCC.ApiV2.API.csproj",
+      "packagesPath": "C:\\Users\\miguel.gomes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\miguel.gomes\\Desktop\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jfranco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\miguel.gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -14547,17 +14547,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\jfranco\\Source\\Repos\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API.Common\\ApiJenkinsCC.ApiV2.API.Common.csproj": {
-              "projectPath": "C:\\Users\\jfranco\\Source\\Repos\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API.Common\\ApiJenkinsCC.ApiV2.API.Common.csproj"
+            "C:\\Users\\miguel.gomes\\Desktop\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API.Common\\ApiJenkinsCC.ApiV2.API.Common.csproj": {
+              "projectPath": "C:\\Users\\miguel.gomes\\Desktop\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API.Common\\ApiJenkinsCC.ApiV2.API.Common.csproj"
             },
-            "C:\\Users\\jfranco\\Source\\Repos\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API.DataContracts\\ApiJenkinsCC.ApiV2.API.DataContracts.csproj": {
-              "projectPath": "C:\\Users\\jfranco\\Source\\Repos\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API.DataContracts\\ApiJenkinsCC.ApiV2.API.DataContracts.csproj"
+            "C:\\Users\\miguel.gomes\\Desktop\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API.DataContracts\\ApiJenkinsCC.ApiV2.API.DataContracts.csproj": {
+              "projectPath": "C:\\Users\\miguel.gomes\\Desktop\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.API.DataContracts\\ApiJenkinsCC.ApiV2.API.DataContracts.csproj"
             },
-            "C:\\Users\\jfranco\\Source\\Repos\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.IoC.Configuration\\ApiJenkinsCC.ApiV2.IoC.Configuration.csproj": {
-              "projectPath": "C:\\Users\\jfranco\\Source\\Repos\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.IoC.Configuration\\ApiJenkinsCC.ApiV2.IoC.Configuration.csproj"
+            "C:\\Users\\miguel.gomes\\Desktop\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.IoC.Configuration\\ApiJenkinsCC.ApiV2.IoC.Configuration.csproj": {
+              "projectPath": "C:\\Users\\miguel.gomes\\Desktop\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.IoC.Configuration\\ApiJenkinsCC.ApiV2.IoC.Configuration.csproj"
             },
-            "C:\\Users\\jfranco\\Source\\Repos\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.Services\\ApiJenkinsCC.ApiV2.Services.csproj": {
-              "projectPath": "C:\\Users\\jfranco\\Source\\Repos\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.Services\\ApiJenkinsCC.ApiV2.Services.csproj"
+            "C:\\Users\\miguel.gomes\\Desktop\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.Services\\ApiJenkinsCC.ApiV2.Services.csproj": {
+              "projectPath": "C:\\Users\\miguel.gomes\\Desktop\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2\\ApiJenkinsCC.ApiV2.Services\\ApiJenkinsCC.ApiV2.Services.csproj"
             }
           }
         }
